@@ -68,6 +68,7 @@ hr {
     max-width: 1120px;
     padding: 3rem 2rem;
     margin: auto;
+    gap: 1rem;
 }
 
 .receitas-cabecalho {
@@ -93,10 +94,11 @@ hr {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 2rem;
+    gap: 1rem;
 }
 
 .receitas-card {
+    box-shadow: 3px 3px 3px #00000057;
     background: #A5D6A77E;
     padding: 2rem;
     border-radius: 0.5rem;
@@ -104,6 +106,7 @@ hr {
     flex-direction: column;
     gap: 2rem;
     flex-basis: 29rem;
+    
 }
 
 .receitas-card-cabecalho {
