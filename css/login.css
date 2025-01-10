@@ -1,0 +1,16 @@
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.containerLogin {
+    background-color: #37474f8b;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    margin: auto;
+    padding: 20px;
+}
